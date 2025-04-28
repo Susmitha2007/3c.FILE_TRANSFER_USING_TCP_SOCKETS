@@ -100,12 +100,16 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 server:
 
+
 ![Screenshot 2025-04-28 122420](https://github.com/user-attachments/assets/513096ba-bf81-4eb8-81e6-983e65054eb0)
+
 
 
 client:
 
+
 ![Screenshot 2025-04-28 122431](https://github.com/user-attachments/assets/7face62e-f54e-4100-98a2-1299111e05ae)
+
 
 
 ## RESULT
